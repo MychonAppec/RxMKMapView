@@ -1,15 +1,15 @@
 PODS:
   - Nimble (9.0.0)
   - Quick (3.0.0)
-  - RxCocoa (6.0.0):
-    - RxRelay (= 6.0.0)
-    - RxSwift (= 6.0.0)
-  - RxMKMapView (6.0.0):
-    - RxCocoa (~> 6.0)
-    - RxSwift (~> 6.0)
-  - RxRelay (6.0.0):
-    - RxSwift (= 6.0.0)
-  - RxSwift (6.0.0)
+  - RxCocoa (6.9.0):
+    - RxRelay (= 6.9.0)
+    - RxSwift (= 6.9.0)
+  - RxMKMapView (6.9.0):
+    - RxCocoa (~> 6.9)
+    - RxSwift (~> 6.9)
+  - RxRelay (6.9.0):
+    - RxSwift (= 6.9.0)
+  - RxSwift (6.9.0)
 
 DEPENDENCIES:
   - Nimble
